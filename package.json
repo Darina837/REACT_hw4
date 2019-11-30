@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://Darina837.github.io/REACT_hw4/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +13,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build-production": "npx cross-env GENERATE_SOURCEMAP=false react-scripts build"
+    "build-production": "npx cross-env GENERATE_SOURCEMAP=false react-scripts build",
+    "predeploy": "yarn run build-production",
+    "deploy": "npx gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
