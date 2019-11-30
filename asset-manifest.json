@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/REACT_hw4/static/css/main.2c69a91f.chunk.css",
+    "main.js": "/REACT_hw4/static/js/main.8f4e1dfe.chunk.js",
+    "runtime-main.js": "/REACT_hw4/static/js/runtime-main.97781d0b.js",
+    "static/js/2.48e7debb.chunk.js": "/REACT_hw4/static/js/2.48e7debb.chunk.js",
+    "index.html": "/REACT_hw4/index.html",
+    "precache-manifest.e3b7e323eb7a8752c8e1f47e15d170ac.js": "/REACT_hw4/precache-manifest.e3b7e323eb7a8752c8e1f47e15d170ac.js",
+    "service-worker.js": "/REACT_hw4/service-worker.js",
+    "static/media/Stop.png": "/REACT_hw4/static/media/Stop.3bf411dd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97781d0b.js",
+    "static/js/2.48e7debb.chunk.js",
+    "static/css/main.2c69a91f.chunk.css",
+    "static/js/main.8f4e1dfe.chunk.js"
+  ]
+}
